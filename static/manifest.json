@@ -1,0 +1,33 @@
+{
+    "name": "Conversor de moneda",
+    "short_name": "Moneda",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#787373",
+    "theme_color": "#ccc741",
+    "icons": [
+        {
+        "src": "/static/icons/128x128.png",
+        "sizes": "128x128",
+        "type": "image/png"
+        },
+        {
+        "src": "/static/icons/512x512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+        }
+    ],
+    "screenshots": [
+        {
+        "src": "/static/screenshots/1.png",
+        "sizes": "910x910",
+        "type": "image/png"
+        },
+        {
+        "src": "/static/screenshots/2.png",
+        "sizes": "1919x910",
+        "type": "image/png",
+        "form_factor": "wide"
+        }
+    ]
+}
